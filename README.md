@@ -1,5 +1,5 @@
 # CSE 360 — Team Project Phase 3 (TP3)
-## Student Discussion System — Instructional Team Grading Tools
+## Student Discussion System - Instructional Team Grading Tools
 
 **Course:** CSE 360 Software Engineering · Arizona State University · Spring 2026  
 **Team:** Team 21  
