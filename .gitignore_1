@@ -1,0 +1,29 @@
+# Eclipse
+.metadata/
+.settings/
+bin/
+.classpath
+.project
+*.class
+
+# H2 Database files
+*.db
+*.trace.db
+*.lock.db
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+*.swp
+*.swo
+*~
+.idea/
+*.iml
+
+# Build
+target/
+build/
+out/
